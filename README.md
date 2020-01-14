@@ -1,7 +1,6 @@
 # Math-7243-2020
 
 ### Table of Contents
-### Table of Contents
 | Lecture      | Title          | Topics |
 | :---         |     :---:      |          ---: |
 | Lecture 1    | Introduction to Machine Learning | What is machine learning, terminology and notation, first examples: linear regression and binary classification with k-nearest neighbors  |
