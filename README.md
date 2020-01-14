@@ -1,7 +1,7 @@
 # Math-7243-2020
 
 ### Table of Contents
-| <div style="width:290px">Lecture</div>    | Title          | Topics |
+| <div style="width:500px">Lecture</div>    | Title          | Topics |
 | :---         |     :---:      |          ---: |
 | Lecture 1    | Introduction to Machine Learning | What is machine learning, terminology and notation, first examples: linear regression and binary classification with k-nearest neighbors  |
 | Lecture 2    | Matrix Differentiation and Optimization    | Brief introduction to the bias-variance trade off and the curse of dimensionality, matrix differentiation   |
