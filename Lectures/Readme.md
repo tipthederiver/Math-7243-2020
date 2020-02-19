@@ -7,6 +7,9 @@
 | Lecture 3    | Linear Regression    | Variance of linear parameters, confidence intervals and z-scores for linear parameters, feature selection via statistical significance, subset selection   |
 | Lecture 4    | Parameter Shrinkage Methods | Gauss-Markov Theorem, Ridge Regression, Lasso Regression, Degrees of Freedom |
 | Lecture 5    | Linear Methods in Classificaition | Multilabel Classiﬁcation, Regression on Categorical Variables,	Linear Discriminant Analysis, Logistic Regression, Fitting Logistic Regression with Newtons Method, Extra: Bayes Classiﬁer |
+| Lecture 6    | Iterative Methods | Gradient Decent, Stochastic Gradient Decent, Newtons Method, Example: Polynomial Fitting, Example: Fitting Nonpolynomial Functions|
+| Lecture 7    | Smoothing Methods | Piecewise Polynomials and Splines, Endpoint Selection and Smoothing Splines, Multidimensional Splines, Kernel Smoothing, Other Bases|
+| Lecture 8    | Artificial Neural Networks | Artiﬁcial Neural Networks, Linear Classiﬁer, Neural Networks and the Perceptron, Multilabel Perceptrons, Gradient Decent and Back Propagation, Back Propagation|
 
 # Additional Lectures
 
