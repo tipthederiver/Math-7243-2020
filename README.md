@@ -14,7 +14,7 @@
 | Lecture 7    | Smoothing Methods | Piecewise Polynomials and Splines, Endpoint Selection and Smoothing Splines, Multidimensional Splines, Kernel Smoothing, Other Bases|
 | Lecture 8    | Artificial Neural Networks | Artificial Neural Networks, Linear Classifier, Neural Networks and the Perceptron, Multilabel Perceptrons, Gradient Decent and Back Propagation, Back Propagation|
 
-### Additional Lectures
+#### Additional Lectures
 
 | Lecture Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
