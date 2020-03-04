@@ -13,6 +13,8 @@
 | Lecture 6    | Iterative Methods | Gradient Decent, Stochastic Gradient Decent, Newtons Method, Example: Polynomial Fitting, Example: Fitting Nonpolynomial Functions|
 | Lecture 7    | Smoothing Methods | Piecewise Polynomials and Splines, Endpoint Selection and Smoothing Splines, Multidimensional Splines, Kernel Smoothing, Other Bases|
 | Lecture 8    | Artificial Neural Networks | Artificial Neural Networks, Linear Classifier, Neural Networks and the Perceptron, Multilabel Perceptrons, Gradient Decent and Back Propagation, Back Propagation|
+| Lecture 9    | Convolutional Neural Networks | Types of Artificial Neural Networks, Convolutional Neural Networks, History of CNNs, Using Pretrained CNN’s|
+| Lecture 10   | Recurrent Neural Networks | Types of Artificial Neural Networks, Recurrent Networks, Recurrence Nodes, Applying RNN’s to Natural Language Processing, Extra: Symmetrically Connected Networks|
 
 #### Additional Lectures
 
@@ -29,6 +31,9 @@
 | Lab 2    | Linear Regression | Linear regression with linear algebra, sklearn and statsmodel.api; ridge and lasso regression; subset selection methods. |
 | Lab 3    | Linear Methods in Classification | Visualization of categorically labeled data, categorical linear regression, logistic regression, linear and quadratic discriminant analysis. |
 | Lab 4 | Artificial Neural Networks with Tensorflow and Keras | Building, training, using and saving ANN's using Keras with a Tensorflow backend. |
+| Lab 5 | Convolutional Neural Networks with Keras | Building and training CNN's, using pretrained CNN's, using Keras. |
+| Lab 6 | Recurrent Neural Networks with Keras | Building and training RNN's for sequence generation and text generation. |
+
 
 ### Hosted External Datasets
 
