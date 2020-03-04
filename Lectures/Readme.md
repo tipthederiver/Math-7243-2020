@@ -10,6 +10,8 @@
 | Lecture 6    | Iterative Methods | Gradient Decent, Stochastic Gradient Decent, Newtons Method, Example: Polynomial Fitting, Example: Fitting Nonpolynomial Functions|
 | Lecture 7    | Smoothing Methods | Piecewise Polynomials and Splines, Endpoint Selection and Smoothing Splines, Multidimensional Splines, Kernel Smoothing, Other Bases|
 | Lecture 8    | Artificial Neural Networks | Artificial Neural Networks, Linear Classifier, Neural Networks and the Perceptron, Multilabel Perceptrons, Gradient Decent and Back Propagation, Back Propagation|
+| Lecture 9    | Convolutional Neural Networks | Types of Artificial Neural Networks, Convolutional Neural Networks, History of CNNs, Using Pretrained CNN’s|
+| Lecture 10   | Recurrent Neural Networks | Types of Artificial Neural Networks, Recurrent Networks, Recurrence Nodes, Applying RNN’s to Natural Language Processing, Extra: Symmetrically Connected Networks|
 
 # Additional Lectures
 
