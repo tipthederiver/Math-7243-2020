@@ -1,6 +1,18 @@
 
 Needs to be done:
 
+Weights for 10 Epoch Train for U-Net:
+
+2D
+https://drive.google.com/file/d/1G6fVcO7OXTlQlCzEGPUg-cphBTlNELix/view?usp=sharing, 
+
+3D
+https://drive.google.com/file/d/1n7Qs9f210hcANSOU6LTqx7SmrVXeoWvY/view?usp=sharing
+
+Zip of segmented files:
+
+https://drive.google.com/open?id=1sCuHx4Hexv2djSCG6HiLxOy2OpXeSsZ2
+
 |Task | Description | Assigned | Done?|
 |-----|-------------|----------|------|
 |3d Segments from 2d Network| Take a 3d img, split it into a stack of 2d images, feed them into the 2d network, recompile them into a 3d image. Code should take a 3d img file as input and output a 3d seg file|Zachary||
