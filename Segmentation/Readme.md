@@ -1,5 +1,6 @@
+## Segementation with U-Net Post-Project
 
-Needs to be done:
+### Resources:
 
 Weights for 10 Epoch Train for U-Net:
 
@@ -12,6 +13,8 @@ https://drive.google.com/file/d/1n7Qs9f210hcANSOU6LTqx7SmrVXeoWvY/view?usp=shari
 Zip of segmented files:
 
 https://drive.google.com/open?id=1sCuHx4Hexv2djSCG6HiLxOy2OpXeSsZ2
+
+### To do:
 
 |Task | Description | Assigned | Done?|
 |-----|-------------|----------|------|
