@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Math-7243-2020
 
 ## Table of Contents
