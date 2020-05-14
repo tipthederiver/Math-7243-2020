@@ -1,3 +1,5 @@
+theme: jekyll-theme-slate
+
 # Math-7243-2020
 
 ## Table of Contents
