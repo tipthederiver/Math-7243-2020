@@ -1,4 +1,6 @@
-theme: jekyll-theme-slate
+---
+layout: default
+---
 
 # Math-7243-2020
 
