@@ -1,4 +1,4 @@
-# Math-7243-2020
+# Northeastern University Math 7243 - Machine Learning 1
 
 ## Table of Contents
 ### Lectures
