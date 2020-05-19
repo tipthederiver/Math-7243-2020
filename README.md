@@ -11,7 +11,7 @@
       <div class="container">
         <h4><b>Single Channel Speech Enhancement</b></h4>
         <p>Andrew Stockton</p>
-        <p><a>Paper</a><a>Presentation</a><a>Slides</a></p>
+        <p><a>Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
       </div>
     </div>
   </div>
