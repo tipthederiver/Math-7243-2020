@@ -97,6 +97,19 @@
   </div>
  </div>
  
+  <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Predicting%20VIX%20Ticker%20Volatility%20from%20Headlines%20Thumb.png" style="width:100%">
+      <div class="container">
+        <h4><b>Predicting VIX Ticker Volatility from Headlines</b></h4>
+        <p>Joshua Galloway</p>
+        <p><a>Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+      </div>
+    </div>
+  </div>
+ </div>
+ 
 
 ### Lectures
 
