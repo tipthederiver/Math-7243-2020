@@ -7,7 +7,7 @@
  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Mixture%20Model%20Fitting%20Thumb.png"style="width:100%">
+      <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Mixture%20Model%20Fitting%20Thumb.png" style="width:100%">
       <div class="container">
         <h4><b>Predicting Probability of 311 Service Request Categories</b></h4>
         <p>Jon Gray</p>
@@ -30,7 +30,7 @@
  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/IPO%20Success%20and%20Failure.png"style="width:100%">
+      <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/IPO%20Success%20and%20Failure.png" style="width:100%">
       <div class="container">
         <h4><b>Predict IPOs Success/Failure</b></h4>
         <p>Mingfeng Gao,  Xingjian Huang,  Haojun Cao</p>
