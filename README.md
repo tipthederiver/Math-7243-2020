@@ -1,6 +1,22 @@
 # Northeastern University Math 7243 - Machine Learning 1
 
 ## Table of Contents
+
+ <div class="row">
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+</div> 
+
 ### Lectures
 
 | Lecture Number    | Title          | Topics |
