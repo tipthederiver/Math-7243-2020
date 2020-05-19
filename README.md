@@ -3,7 +3,7 @@
 ## Table of Contents
 ### Lectures
 
-| Lecture Number    | Title          | Topics &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|
+| Lecture Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
 | [Lecture 1](https://drive.google.com/file/d/1_rZ-bPs22E-WaCYkMqSKSBkGPXPuVGn0/view?usp=sharing)    | Introduction to Machine Learning | What is machine learning, terminology and notation, first examples: linear regression and binary classification with k-nearest neighbors |
 | [Lecture 2](https://drive.google.com/file/d/1aPtUh7dQrup-dUYDxHvRTz0Kz2Bin-9B/view?usp=sharing)    | Matrix Differentiation and Optimization    | Brief introduction to the bias-variance trade off and the curse of dimensionality, matrix differentiation   |
