@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-### Project Galltery
+### Project Gallery
 
  <div class="row">
   <div class="column">
