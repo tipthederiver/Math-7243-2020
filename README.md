@@ -7,7 +7,7 @@
  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="Avatar" style="width:100%">
+      <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Test/Single%20Channel%20Speech%20Enhancement.PNG" alt="Avatar" style="width:100%">
       <div class="container">
         <h4><b>Single Channel Speech Enhancement</b></h4>
         <p>Andrew Stockton</p>
