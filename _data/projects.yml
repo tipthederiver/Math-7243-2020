@@ -1,67 +1,67 @@
 projects:
-- title: Single Channel Speech Enhancement
-  names: Andrew Stockton
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Single%20Channel%20Speech%20Enhancement%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1X4_bxSBOInZl8WCLEw6MslVuPC89j4SV/view?usp=sharing
-  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=49m9s
-  slide-url: https://drive.google.com/file/d/1xXjmin_m4kWuCdxyBT98IsDjRSPsGYJo/view?usp=sharing
-- title: Predicting Probability of 311 Service Request Categories
-  names: Jon Gray
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Mixture%20Model%20Fitting%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1iqXTMzbvMTMB5InnBj_XABdl66rzTsZZ/view?usp=sharing
-  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=97m30s
-  slide-url: https://drive.google.com/file/d/1Z4vGs6TKazBX4pY0Tf3iXRR_Kon69oZN/view?usp=sharing
-- title: Predict IPOs Success/Failure
-  names: Mingfeng Gao,  Xingjian Huang,  Haojun Cao
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/IPO%20Success%20and%20Failure.png
-  paper-url: https://drive.google.com/file/d/1HakZkZttZWakObdbw2UoP9s3qrYETDpg/view?usp=sharing
-  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=75m53s
-  slide-url: https://drive.google.com/file/d/156i3S_qhtLTKn574A84bd_iYTSMWNvqm/view?usp=sharing
-- title: Stock Price Prediction from Reddit News and Market Information
-  names: Pranshu Tiwari
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Stock%20Price%20Prediction%20from%20Reddit%20News%20and%20Market%20Information%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1p5gWK00MY_JZMpBDz95wWrbA4UY4wbPP/view?usp=sharing
-  pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE&t=35m22s
-  slide-url: https://drive.google.com/file/d/153MtKNTVc2t800IchX6m-cwZgFd0amzs/view?usp=sharing
-- title: MRI Image Segmentation
-  names: Ruobing Bai, Sara Benedetti, Yakun Chen, Chun-Li Chuang, Wanchen Geng, Ruiwen Jin, Rohit Thakur, Zheying Yu
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/3d%20Segmentation%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1F6pkcUYLexGCA8fBjH_rOtMt77ei0EMy/view?usp=sharing
-  pres-url: https://youtu.be/cAUVBzhZX9Y
-  slide-url: https://drive.google.com/file/d/1Jw2cjUguJAeOnR3kdClwqHNpoTuSrWm9/view
-- title: Boston 311 Violation Prediction
-  names: Emily Obudzinski, Taylor Ketterer, Edith Aromando, Alison Abrams
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Violation%20Prediction%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1vxKimrU1fuxzGzEQbBxoyD85u8bik7uY/view?usp=sharing
-  pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE&t=18m38s
-  slide-url: https://drive.google.com/file/d/1gxMf2FNInxyTZ-6SM-0urYwboj8BbZbB/view?usp=sharing
 - title: New loss function of Deep Learning based Side-Channel Attack
   names: Ziyue Zhang, Xiang Zhang
   thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Side%20Channel%20Attack%20Thumb.png
   paper-url: https://drive.google.com/file/d/1tEWFNlZSWPi0CQmDoiKFjOxoF0l2rkCq/view?usp=sharing
   pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=17m0s
   slide-url: https://drive.google.com/file/d/1r2DsvGPGlneNBpQky3qoh6obxUfM6ALF/view?usp=sharing
-- title: Word Embeddings for 20 Newsgroups
-  names: Matthew Burchfield
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Word%20Embeddings%20for%2020%20Newsgroups%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1djQGxiCaI7L27yXagZAhoyoySRQu20yj/view?usp=sharing
-  pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE&t=35m22s
-  slide-url: https://drive.google.com/file/d/1emLAtvLsfKUVYyDLNIA4eoedOy90uFyN/view?usp=sharing
+- title: Single Channel Speech Enhancement
+  names: Andrew Stockton
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Single%20Channel%20Speech%20Enhancement%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1X4_bxSBOInZl8WCLEw6MslVuPC89j4SV/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=49m9s
+  slide-url: https://drive.google.com/file/d/1xXjmin_m4kWuCdxyBT98IsDjRSPsGYJo/view?usp=sharing
+- title: MRI Image Segmentation
+  names: Ruobing Bai, Sara Benedetti, Yakun Chen, Chun-Li Chuang, Wanchen Geng, Ruiwen Jin, Rohit Thakur, Zheying Yu
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/3d%20Segmentation%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1F6pkcUYLexGCA8fBjH_rOtMt77ei0EMy/view?usp=sharing
+  pres-url: https://youtu.be/cAUVBzhZX9Y
+  slide-url: https://drive.google.com/file/d/1Jw2cjUguJAeOnR3kdClwqHNpoTuSrWm9/view
 - title: Predicting VIX Ticker Volatility from Headlines
   names: Joshua Galloway
   thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Predicting%20VIX%20Ticker%20Volatility%20from%20Headlines%20Thumb.png
   paper-url: https://drive.google.com/file/d/1-cJxeCk8pzq61ACj_U-LMusvPypQGj0s/view?usp=sharing
   pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=35m32s
   slide-url: https://drive.google.com/file/d/1lIK4PWzAaEVynBqLGN4dYKBBX9w2Dydo/view?usp=sharing
-- title: Mapping Lead in Providence RI
-  names: Zexian Zhao, Jiayi Li, Zechen Jin, Yiwen Liu
-  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Providence%20Lead%20Thumb.png
-  paper-url: https://drive.google.com/file/d/1OMmZ98Nz-tRtGixDPSijohmVfylve8ie/view
-  pres-url: https://youtu.be/CSXaizgxln4
-  slide-url: 
+- title: Boston 311 Violation Prediction
+  names: Emily Obudzinski, Taylor Ketterer, Edith Aromando, Alison Abrams
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Violation%20Prediction%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1vxKimrU1fuxzGzEQbBxoyD85u8bik7uY/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE&t=18m38s
+  slide-url: https://drive.google.com/file/d/1gxMf2FNInxyTZ-6SM-0urYwboj8BbZbB/view?usp=sharing
 - title: Surgery Planing From MRI
   names: Zachary Crowell, Linhui Chen, Yantong Lyu, Hui Ma
   thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Surgery%20Planning%20Thumb.png
   paper-url: https://drive.google.com/file/d/1TRYlgxv0Jt8TunlaRrlALaz8knysixV2/view?usp=sharing
   pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE
   slide-url: 
+- title: Mapping Lead in Providence RI
+  names: Zexian Zhao, Jiayi Li, Zechen Jin, Yiwen Liu
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Providence%20Lead%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1OMmZ98Nz-tRtGixDPSijohmVfylve8ie/view
+  pres-url: https://youtu.be/CSXaizgxln4
+  slide-url: 
+- title: Word Embeddings for 20 Newsgroups
+  names: Matthew Burchfield
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Word%20Embeddings%20for%2020%20Newsgroups%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1djQGxiCaI7L27yXagZAhoyoySRQu20yj/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE&t=35m22s
+  slide-url: https://drive.google.com/file/d/1emLAtvLsfKUVYyDLNIA4eoedOy90uFyN/view?usp=sharing
+- title: Predict IPOs Success/Failure
+  names: Mingfeng Gao,  Xingjian Huang,  Haojun Cao
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/IPO%20Success%20and%20Failure.png
+  paper-url: https://drive.google.com/file/d/1HakZkZttZWakObdbw2UoP9s3qrYETDpg/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=75m53s
+  slide-url: https://drive.google.com/file/d/156i3S_qhtLTKn574A84bd_iYTSMWNvqm/view?usp=sharing
+- title: Predicting Probability of 311 Service Request Categories
+  names: Jon Gray
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Mixture%20Model%20Fitting%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1iqXTMzbvMTMB5InnBj_XABdl66rzTsZZ/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=97m30s
+  slide-url: https://drive.google.com/file/d/1Z4vGs6TKazBX4pY0Tf3iXRR_Kon69oZN/view?usp=sharing
+- title: Stock Price Prediction from Reddit News and Market Information
+  names: Pranshu Tiwari
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Stock%20Price%20Prediction%20from%20Reddit%20News%20and%20Market%20Information%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1p5gWK00MY_JZMpBDz95wWrbA4UY4wbPP/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=V5fPlGtPOPE&t=35m22s
+  slide-url: https://drive.google.com/file/d/153MtKNTVc2t800IchX6m-cwZgFd0amzs/view?usp=sharing
