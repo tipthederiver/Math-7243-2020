@@ -20,8 +20,8 @@ layout     : default
 {% endfor %}
 
 # Did it work?
-<p>Husband's name: {{site.samplelist.name.husband}}</p>
-<p>Wife's name: {{site.samplelist.name.wife}}</p>
+<p>Husband's name: {{site.data.samplelist.name.husband}}</p>
+<p>Wife's name: {{site.data.samplelist.name.wife}}</p>
 
 {% for item in site.samplelist.toc %}
 <h3>{{item.title}}</h3>
