@@ -2,7 +2,7 @@
 layout     : default
 ---
 
-# Segmentation Project
+# XN Industry Projects:
 
 The MRI Segmentation Project and Surgery Planning project are XN projects sponsored by [Z-Imaging](http://zimaging.io/), a Harvard Innovation Labs sponsored startup. Below is our student at the Harvard Innovation Labs with CTO Raahil Sha.
 
@@ -12,6 +12,8 @@ The MRI Segmentation Project and Surgery Planning project are XN projects sponso
 ## MRI Segmentation:
 
 This project used the [OASIS1](https://www.oasis-brains.org/) dataset to perform automatic segmentation of the ventricles. Students used 3D slicer to construct a large dataset of 3D ventricular segmentations from volumetric MRI data. The group then constructed a 3D UNET that takes in a piece of MRI data and returns a 3D segmented volume. The main issues with this project were in data handling, as the data set has few members (100) but each data point (MRI) is 12 MB. Down-sampling, memory handling and a carefully constructed network were required to train a network capable of proper segmentation. 
+
+This project is on goin and the current source code can be found here on [the github page](https://github.com/tipthederiver/Math-7243-2020/tree/master/Segmentation).
 
 ## Surgery Planing for External Ventricular Drain:
 
