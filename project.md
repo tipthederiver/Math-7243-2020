@@ -39,3 +39,27 @@ For some projects the steps above will take difference amounts of time. For exam
   {% endfor %}
 </div>
 
+
+<div class="row">
+  {% for project in site.data.projects.projects %}
+  <div class="column">
+    <div class="card">
+      <img src="{{project.thumb-url}}" style="width:100%">
+      <div class="container">
+        <h4><b>{{project.title}}</b></h4>
+        <p>{{project.names}}</p>
+        <p><a href="{{project.paper-url}}">Paper</a> | <a href="{{project.pres-url}}">Presentation</a> | <a href="{{project.slide-url}}">Slides</a></p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+ <table style="width:100%">
+  <tr>
+    <td style="text-align:left">January</td>
+    <td style="text-align:center">$100</td>
+    <td style="text-align:right">$100</td>
+  </tr>
+</table> 
+
