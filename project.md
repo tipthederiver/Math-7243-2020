@@ -32,40 +32,9 @@ For some projects the steps above will take difference amounts of time. For exam
       <div class="container">
         <h4><b>{{project.title}}</b></h4>
         <p>{{project.names}}</p>
-        <p><a href="{{project.paper-url}}" style="width:23%">Paper</a> | <a href="{{project.pres-url}}" style="width:50%">Presentation</a> | <a href="{{project.slide-url}}" style="width:23%">Slides</a></p>
+        <p><a href="{{project.paper-url}}">Paper</a> | <a href="{{project.pres-url}}">Presentation</a> | <a href="{{project.slide-url}}">Slides</a></p>
       </div>
     </div>
   </div>
   {% endfor %}
 </div>
-
-
-<div class="row">
-  {% for project in site.data.projects.projects %}
-  <div class="column">
-    <div class="card">
-      <img src="{{project.thumb-url}}" style="width:100%">
-      <div class="container">
-        <h4><b>{{project.title}}</b></h4>
-        <p>{{project.names}}</p>
-        <p>
-          <div style="width:100%">
-            <div style="text-align:left; width:29%"><a href="{{project.paper-url}}">Paper</a></div>
-            <div style="text-align:center; width:40%"><a href="{{project.pres-url}}">Presentation</a></div>
-            <div style="text-align:right; width:29%"><a href="{{project.slide-url}}">Slides</a></div>
-          </div>
-        </p>
-      </div>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
- <table style="width:100%">
-  <tr>
-    <td style="text-align:left; width:30%">January</td>
-    <td style="text-align:center; width:40%">$100</td>
-    <td style="text-align:right; width:30%">$100</td>
-  </tr>
-</table> 
-
