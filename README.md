@@ -2,6 +2,15 @@
 
 This course introduces both the mathematical theory of learning and the implementation of modern machine-learning algorithms appropriate for data science. Modeling everything from social organization to financial predictions, machine-learning algorithms allow us to discover information about complex systems, even when the underlying probability distributions are unknown. Algorithms discussed include regression, decision trees, clustering, neural networks and dimensionality reduction techniques. The course offers students an opportunity to learn the implications of the mathematical choices underpinning the use of each algorithm, how the results can be interpreted in actionable ways, and how to apply their knowledge through the analysis of a variety of data sets and models. 
 
+This course consists of 20 Lectures and 6 inclass-takehome Labs, covering a wide range of topics in machine learning. The course is split into four peices:
+
+* Linear Methods, Basis Methods, and Decition Trees (Lectures 1-7, 13, 18, Lab 1-3)
+* Neural Networks (Lecture 8-11, Labs 4-7)
+* Introduction to Unspervised Learning: PCA and Clustering (Lectures 12, 14-16)
+* Mathematical Framework of Statistical Learning (Lectures 18-20)
+
+This course is designed to be both a practical introduction to the hands on aspects of machine learning as well as to the theory. As part of the course students will produce a novel end-to-end machine learning project. While I will help you with this project you will need to struggle with all aspects of the pipeline, from data acquisition to model selection and training to the presentation of your results. It is hard to understand the purpose of the mathematical pieces of machine learning without struggle with the practicalities. Similarly, the theory allows us to perform careful model selection and construct new models in an ever widening space of algorithms. The great results in machine learning come from the synergy of practical verification and theoretical robustness. This course strives to serve as a strong introduction to both. 
+
 ## Lectures
 
 Lectures are hosted on Google Drive to size constraints. If you find a mis-attributed image/dataset discussed in these lectures please do not hesitate to reach out. These lectures follow closely 
