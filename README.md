@@ -36,7 +36,6 @@ This course introduces both the mathematical theory of learning and the implemen
 
 
 ## Labs
-# Labs:
 
 | Lab Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
