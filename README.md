@@ -4,6 +4,14 @@ This course introduces both the mathematical theory of learning and the implemen
 
 ## Lectures
 
+Lectures are hosted on Google Drive to size constraints. If you find a mis-attributed image/dataset discussed in these lectures please do not hesitate to reach out. These lectures follow closely 
+
+* Statistical Considerations and Best Practices: [_Elements of Statistical Learning_](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie, Tibshirani, Friedman.
+* Implementation and Neural Networks: [_Hands-On Machine Learning with Scikit-earn, Keras, and Tensorflow_](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), by Géron, [Git Hub](https://github.com/ageron).
+* Axiomatic Mathematical Framework and Theory: [_Understanding Machine Learning_](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/), by Shalev-Shwartz, Ben-David. 
+* How-to guides for every Neural Network: [_Machine Learning Masterty_](https://machinelearningmastery.com/) by Jason Brownlee.
+* Inspiration and Visualization: [Distill](https://distill.pub/).
+
 | Lecture Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
 | [Lecture 1](https://drive.google.com/file/d/1_rZ-bPs22E-WaCYkMqSKSBkGPXPuVGn0/view?usp=sharing)    | Introduction to Machine Learning | What is machine learning, terminology and notation, first examples: linear regression and binary classification with k-nearest neighbors |
@@ -32,7 +40,8 @@ This course introduces both the mathematical theory of learning and the implemen
 
 | Lecture Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
-| Lecture 4.5    | Dimensional Reduction | Feature construction, dimensional reduction, factor analysis, PCA |
+| [Lecture 12 Part 2 (Jorio) ](https://drive.google.com/open?id=1Zl-S1CMFN9Gneqy8YkytLgx7KmaoRGWp)    | PCA and Random Matricies |The theory of random matricies and the resulting statistical guarentee for PCA on high dimensional spaces |
+| [Lecture 21](https://drive.google.com/open?id=1pdKS1kAy3OuYUazTosRzbuC66kgFYhLh)    | Validation and Model Selection | Hyperparameter Tuning Algorithms, Managing Accuracy For Large Numbers of Models, Comparing Model Performance Using Statistical Tests, Bayesian Optimization|
 
 
 ## Labs
