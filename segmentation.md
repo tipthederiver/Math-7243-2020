@@ -6,11 +6,9 @@ layout     : default
 
 The MRI Segmentation Project and Surgery Planning project are XN projects sponsored by [Z-Imaging](http://zimaging.io/), a Harvard Innovation Labs sponsored startup. Below is our student at the Harvard Innovation Labs with CTO Raahil Sha.
 
-<div><img class="XNImage" src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg"></div>
-<div><img class="XNImage" src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg"></div>
-
-![Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg)
-![Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg)
+<div>
+  <img class="XNImage" src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg">
+  <img class="XNImage" src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg"></div>
 
 ## MRI Segmentation:
 
