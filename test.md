@@ -23,7 +23,7 @@ layout     : default
 <p>Husband's name: {{site.data.samplelist.name.husband}}</p>
 <p>Wife's name: {{site.data.samplelist.name.wife}}</p>
 
-{% for item in site.samplelist.toc %}
+{% for item in site.data.samplelist.toc %}
 <h3>{{item.title}}</h3>
 <ul>
 {% for entry in item.subfolderitems %}
