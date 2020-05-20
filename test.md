@@ -3,21 +3,13 @@ layout     : default
 ---
 
 # Test
-
-{% for author in site.authors %}
-    Username: {{ author[0] }}
-    Full Name: {{ author[1]["name"] }}
-    {% if author[1]["site"] != "" %}
-        Site: {{ author[1]["site"] }}
-    {% endif %}
-    E-Mail: {{ author[1]["email"] }}
-    -----
-{% endfor %}
-
-{% for author in site.author %}
-    {{ author }}
-    ----
-{% endfor %}
+<ul>
+    {% for project in site.data.projects.projects %}
+        <li>{{project.title}}</li>
+        <li>{{project.names}}</li>
+        <li>{{project.thumb-url}}</li>
+    {% endfor %}
+</ul>
 
 # Did it work?
 <ul>
