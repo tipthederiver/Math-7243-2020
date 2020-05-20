@@ -15,7 +15,7 @@ The final project for this course is an end-to-edn machine learning project. You
 For some projects the steps above will take difference amounts of time. For example, if you need to construct a new dataset (see Providence Lead below) data acquisition may be a large part of your project. However, if you're training large computationally intensive neural networks (see MRI Segmentation below) the dataset model selection, comparison and training will take the bulk of your time. Remember, you need to do something new, you cant just copy a Kaggle kernel. In addition, these are 6-8 week projects, you _cannot_ do them in two week projects and get an A. 
 
 
-### Final Project Information:
+### Final Project Resources:
 
 * [Project Information](https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Project%20Information.docx)
 * [Project Rubric](https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Project%20Rubric.docx)
