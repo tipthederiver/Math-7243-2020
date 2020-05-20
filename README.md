@@ -1,5 +1,7 @@
 # Math 7243 - Machine Learning and Statistical Learning Theory, Northeastern University Department of Mathematics
 
+test
+
 This course introduces both the mathematical theory of learning and the implementation of modern machine-learning algorithms appropriate for data science. Modeling everything from social organization to financial predictions, machine-learning algorithms allow us to discover information about complex systems, even when the underlying probability distributions are unknown. Algorithms discussed include regression, decision trees, clustering, neural networks and dimensionality reduction techniques. The course offers students an opportunity to learn the implications of the mathematical choices underpinning the use of each algorithm, how the results can be interpreted in actionable ways, and how to apply their knowledge through the analysis of a variety of data sets and models. 
 
 This course consists of 20 Lectures and 6 inclass-takehome Labs, covering a wide range of topics in machine learning. The course is split into four peices:
