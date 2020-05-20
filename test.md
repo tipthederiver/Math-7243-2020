@@ -1,3 +1,7 @@
+---
+layout     : default
+---
+
 {% for author in authors %}
     Username: {{ author[0] }}
     Full Name: {{ author[1]["name"] }}
