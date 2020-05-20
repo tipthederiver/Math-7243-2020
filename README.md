@@ -69,6 +69,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
+ 
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Single%20Channel%20Speech%20Enhancement%20Thumb.png" style="width:100%">
@@ -90,6 +91,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
+  
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Stock%20Price%20Prediction%20from%20Reddit%20News%20and%20Market%20Information%20Thumb.png" style="width:100%">
@@ -100,10 +102,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
- </div>
- 
- 
- <div class="row">
+
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/3d%20Segmentation%20Thumb.png" style="width:100%">
@@ -114,6 +113,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
+ 
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Boston%20311%20Violation%20Prediction%20Thumb.png" style="width:100%">
@@ -124,9 +124,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
- </div>
- 
- <div class="row">
+
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Side%20Channel%20Attack%20Thumb.png" style="width:100%">
@@ -137,6 +135,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
+ 
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Word%20Embeddings%20for%2020%20Newsgroups%20Thumb.png" style="width:100%">
@@ -147,9 +146,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
- </div>
- 
-<div class="row">
+
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Predicting%20VIX%20Ticker%20Volatility%20from%20Headlines%20Thumb.png" style="width:100%">
@@ -160,6 +157,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
+ 
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Providence%20Lead%20Thumb.png" style="width:100%">
@@ -170,9 +168,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
- </div>
- 
- <div class="row">
+
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Surgery%20Planning%20Thumb.png" style="width:100%">
