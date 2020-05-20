@@ -63,7 +63,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Predicting Probability of 311 Service Request Categories</b></h4>
         <p>Jon Gray</p>
-        <p><a href="https://drive.google.com/file/d/1iqXTMzbvMTMB5InnBj_XABdl66rzTsZZ/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1iqXTMzbvMTMB5InnBj_XABdl66rzTsZZ/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1Z4vGs6TKazBX4pY0Tf3iXRR_Kon69oZN/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Single Channel Speech Enhancement</b></h4>
         <p>Andrew Stockton</p>
-        <p><a href="https://drive.google.com/file/d/1X4_bxSBOInZl8WCLEw6MslVuPC89j4SV/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1X4_bxSBOInZl8WCLEw6MslVuPC89j4SV/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1xXjmin_m4kWuCdxyBT98IsDjRSPsGYJo/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Predict IPOs Success/Failure</b></h4>
         <p>Mingfeng Gao,  Xingjian Huang,  Haojun Cao</p>
-        <p><a href="https://drive.google.com/file/d/1HakZkZttZWakObdbw2UoP9s3qrYETDpg/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1HakZkZttZWakObdbw2UoP9s3qrYETDpg/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/156i3S_qhtLTKn574A84bd_iYTSMWNvqm/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Stock Price Prediction from Reddit News and Market Information</b></h4>
         <p>Pranshu Tiwari</p>
-        <p><a href="https://drive.google.com/file/d/1p5gWK00MY_JZMpBDz95wWrbA4UY4wbPP/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1p5gWK00MY_JZMpBDz95wWrbA4UY4wbPP/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/153MtKNTVc2t800IchX6m-cwZgFd0amzs/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -110,7 +110,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>MRI Image Segmentation</b></h4>
         <p>Ruobing Bai, Sara Benedetti, Yakun Chen, Chun-Li Chuang, Wanchen Geng, Ruiwen Jin, Rohit Thakur, Zheying Yu</p>
-        <p><a href="https://drive.google.com/file/d/1F6pkcUYLexGCA8fBjH_rOtMt77ei0EMy/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1F6pkcUYLexGCA8fBjH_rOtMt77ei0EMy/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1Jw2cjUguJAeOnR3kdClwqHNpoTuSrWm9/view">Slides</a></p>
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Boston 311 Violation Prediction</b></h4>
         <p>Emily Obudzinski, Taylor Ketterer, Edith Aromando, Alison Abrams</p>
-        <p><a href="https://drive.google.com/file/d/1vxKimrU1fuxzGzEQbBxoyD85u8bik7uY/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1vxKimrU1fuxzGzEQbBxoyD85u8bik7uY/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1gxMf2FNInxyTZ-6SM-0urYwboj8BbZbB/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -133,7 +133,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>New loss function of Deep Learning based Side-Channel Attack</b></h4>
         <p>Ziyue Zhang, Xiang Zhang</p>
-        <p><a href="https://drive.google.com/file/d/1tEWFNlZSWPi0CQmDoiKFjOxoF0l2rkCq/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1tEWFNlZSWPi0CQmDoiKFjOxoF0l2rkCq/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1r2DsvGPGlneNBpQky3qoh6obxUfM6ALF/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -143,7 +143,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Word Embeddings for 20 Newsgroups</b></h4>
         <p>Matthew Burchfield</p>
-        <p><a href="https://drive.google.com/file/d/1djQGxiCaI7L27yXagZAhoyoySRQu20yj/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1djQGxiCaI7L27yXagZAhoyoySRQu20yj/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1emLAtvLsfKUVYyDLNIA4eoedOy90uFyN/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -156,7 +156,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Predicting VIX Ticker Volatility from Headlines</b></h4>
         <p>Joshua Galloway</p>
-        <p><a href="https://drive.google.com/file/d/1-cJxeCk8pzq61ACj_U-LMusvPypQGj0s/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1-cJxeCk8pzq61ACj_U-LMusvPypQGj0s/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1lIK4PWzAaEVynBqLGN4dYKBBX9w2Dydo/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
