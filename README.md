@@ -57,7 +57,10 @@ Lectures are hosted on Google Drive to size constraints. If you find a mis-attri
 | [Lab 6](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%206) | Recurrent Neural Networks with Keras | Building and training RNN's for sequence generation and text generation. |
 | [Lab 7](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%207) | Introduction to Tensorflow | Introduction to using Tensorflow 2.1 and subclassing to properly implament loss functions, layers and models. |
 
+## Homework
 
+* [Homework 1](https://github.com/tipthederiver/Math-7243-2020/raw/master/Homework/Homework%201.pdf): Matrix Calculus, Loss Functions, and Linear Regression
+* [Homework 2](https://github.com/tipthederiver/Math-7243-2020/raw/master/Homework/Homework%202.pdf): LDA, Cubic Splines, and Gradiant Decent.
 
 # Datasets
 ## Hosted External Datasets
