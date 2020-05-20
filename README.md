@@ -1,4 +1,4 @@
-# Northeastern University Math 7243 - Machine Learning 1
+# Northeastern University Math 7243 - Machine Learning and Statistical Learning Theory
 
 This course introduces both the mathematical theory of learning and the implementation of modern machine-learning algorithms appropriate for data science. Modeling everything from social organization to financial predictions, machine-learning algorithms allow us to discover information about complex systems, even when the underlying probability distributions are unknown. Algorithms discussed include regression, decision trees, clustering, neural networks and dimensionality reduction techniques. The course offers students an opportunity to learn the implications of the mathematical choices underpinning the use of each algorithm, how the results can be interpreted in actionable ways, and how to apply their knowledge through the analysis of a variety of data sets and models. 
 
@@ -36,15 +36,17 @@ This course introduces both the mathematical theory of learning and the implemen
 
 
 ## Labs
+# Labs:
 
 | Lab Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
-| Lab 1    | Exploratory Analysis | Loading CSV files, data frames,  graphing, exploratory analysis, linear regression. |
-| Lab 2    | Linear Regression | Linear regression with linear algebra, sklearn and statsmodel.api; ridge and lasso regression; subset selection methods. |
-| Lab 3    | Linear Methods in Classification | Visualization of categorically labeled data, categorical linear regression, logistic regression, linear and quadratic discriminant analysis. |
-| Lab 4 | Artificial Neural Networks with Tensorflow and Keras | Building, training, using and saving ANN's using Keras with a Tensorflow backend. |
-| Lab 5 | Convolutional Neural Networks with Keras | Building and training CNN's, using pretrained CNN's, using Keras. |
-| Lab 6 | Recurrent Neural Networks with Keras | Building and training RNN's for sequence generation and text generation. |
+| [Lab 1](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%201)    | Exploratory Analysis | Loading CSV files, data frames,  graphing, exploratory analysis, linear regression. |
+| [Lab 2](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%202)    | Linear Regression | Linear regression with linear algebra, sklearn and statsmodel.api; ridge and lasso regression; subset selection methods. |
+| [Lab 3](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%203)    | Linear Methods in Classification | Visualization of categorically labeled data, categorical linear regression, logistic regression, linear and quadratic discriminant analysis. |
+| [Lab 4](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%204) | Artificial Neural Networks with Tensorflow and Keras | Building, training, using and saving ANN's using Keras with a Tensorflow backend. |
+| [Lab 5](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%205) | Convolutional Neural Networks with Keras | Building and training CNN's, using pretrained CNN's, using Keras. |
+| [Lab 6](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%206) | Recurrent Neural Networks with Keras | Building and training RNN's for sequence generation and text generation. |
+
 
 
 ## Hosted External Datasets
