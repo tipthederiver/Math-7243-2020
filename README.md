@@ -179,7 +179,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Surgery Planing From MRI</b></h4>
         <p>Zachary Crowell, Linhui Chen, Yantong Lyu, Hui Ma</p>
-        <p><a href="https://drive.google.com/file/d/1TRYlgxv0Jt8TunlaRrlALaz8knysixV2/view?usp=sharing">Paper</a> | <a href="http://www.youtube.com/watch?v=V5fPlGtPOPE">Presentation</a> | <a>Slides</a></p>
+        <p class="cardlinks"><a href="https://drive.google.com/file/d/1TRYlgxv0Jt8TunlaRrlALaz8knysixV2/view?usp=sharing">Paper</a> | <a href="http://www.youtube.com/watch?v=V5fPlGtPOPE">Presentation</a> | <a>Slides</a></p>
       </div>
     </div>
   </div>
