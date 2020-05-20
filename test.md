@@ -20,3 +20,6 @@ layout     : default
 {% endfor %}
 
 # Did it work?
+
+<p>Husband's name: {{site.samplelist.name.husband}}</p>
+<p>Wife's name: {{site.samplelist.name.wife}}</p
