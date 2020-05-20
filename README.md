@@ -10,7 +10,7 @@ Lectures are hosted on Google Drive to size constraints. If you find a mis-attri
 * Implementation and Neural Networks: [_Hands-On Machine Learning with Scikit-earn, Keras, and Tensorflow_](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), by Géron, [Git Hub](https://github.com/ageron).
 * Axiomatic Mathematical Framework and Theory: [_Understanding Machine Learning_](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/), by Shalev-Shwartz, Ben-David. 
 * How-to guides for every Neural Network: [_Machine Learning Masterty_](https://machinelearningmastery.com/) by Jason Brownlee.
-* Inspiration and Visualization: [Distill](https://distill.pub/).
+* Inspiration and Visualization: [_Distill Online Journal_](https://distill.pub/).
 
 | Lecture Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
@@ -40,7 +40,7 @@ Lectures are hosted on Google Drive to size constraints. If you find a mis-attri
 
 | Lecture Number    | Title          | Topics |
 | :---         |     :---:      |          ---: |
-| [Lecture 12 Part 2 (Jorio) ](https://drive.google.com/open?id=1Zl-S1CMFN9Gneqy8YkytLgx7KmaoRGWp)    | PCA and Random Matricies |The theory of random matricies and the resulting statistical guarentee for PCA on high dimensional spaces |
+| [Guest Lecture 12 Part 2 (Jorio Cocola) ](https://drive.google.com/open?id=1Zl-S1CMFN9Gneqy8YkytLgx7KmaoRGWp)    | PCA and Random Matricies |The theory of random matricies and the resulting statistical guarentee for PCA on high dimensional spaces |
 | [Lecture 21](https://drive.google.com/open?id=1pdKS1kAy3OuYUazTosRzbuC66kgFYhLh)    | Validation and Model Selection | Hyperparameter Tuning Algorithms, Managing Accuracy For Large Numbers of Models, Comparing Model Performance Using Statistical Tests, Bayesian Optimization|
 
 
@@ -52,8 +52,11 @@ Lectures are hosted on Google Drive to size constraints. If you find a mis-attri
 | [Lab 2](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%202)    | Linear Regression | Linear regression with linear algebra, sklearn and statsmodel.api; ridge and lasso regression; subset selection methods. |
 | [Lab 3](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%203)    | Linear Methods in Classification | Visualization of categorically labeled data, categorical linear regression, logistic regression, linear and quadratic discriminant analysis. |
 | [Lab 4](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%204) | Artificial Neural Networks with Tensorflow and Keras | Building, training, using and saving ANN's using Keras with a Tensorflow backend. |
+| [Lab 4.5](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%204.5) | Optimizing Deep Nerual Networks |  Selecting Activation Functions, Choosing Weight Initializations, Batch Normalization, Gradient Clipping, Choosing Optimizers and Regularization|
 | [Lab 5](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%205) | Convolutional Neural Networks with Keras | Building and training CNN's, using pretrained CNN's, using Keras. |
 | [Lab 6](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%206) | Recurrent Neural Networks with Keras | Building and training RNN's for sequence generation and text generation. |
+| [Lab 7](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%207) | Introduction to Tensorflow | Introduction to using Tensorflow 2.1 and subclassing to properly implament loss functions, layers and models. |
+
 
 
 # Datasets
