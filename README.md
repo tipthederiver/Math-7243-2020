@@ -96,7 +96,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Stock Price Prediction from Reddit News and Market Information</b></h4>
         <p>Pranshu Tiwari</p>
-        <p><a href="https://drive.google.com/file/d/1p5gWK00MY_JZMpBDz95wWrbA4UY4wbPP/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/153MtKNTVc2t800IchX6m-cwZgFd0amzs/view?usp=sharing">Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1p5gWK00MY_JZMpBDz95wWrbA4UY4wbPP/view?usp=sharing">Paper</a> | <a href="http://www.youtube.com/watch?v=V5fPlGtPOPE&t=35m22s">Presentation</a> | <a href="https://drive.google.com/file/d/153MtKNTVc2t800IchX6m-cwZgFd0amzs/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Boston 311 Violation Prediction</b></h4>
         <p>Emily Obudzinski, Taylor Ketterer, Edith Aromando, Alison Abrams</p>
-        <p><a href="https://drive.google.com/file/d/1vxKimrU1fuxzGzEQbBxoyD85u8bik7uY/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1gxMf2FNInxyTZ-6SM-0urYwboj8BbZbB/view?usp=sharing">Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1vxKimrU1fuxzGzEQbBxoyD85u8bik7uY/view?usp=sharing">Paper</a> | <a href="http://www.youtube.com/watch?v=V5fPlGtPOPE&t=18m38s">Presentation</a> | <a href="https://drive.google.com/file/d/1gxMf2FNInxyTZ-6SM-0urYwboj8BbZbB/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -143,7 +143,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Word Embeddings for 20 Newsgroups</b></h4>
         <p>Matthew Burchfield</p>
-        <p><a href="https://drive.google.com/file/d/1djQGxiCaI7L27yXagZAhoyoySRQu20yj/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a href="https://drive.google.com/file/d/1emLAtvLsfKUVYyDLNIA4eoedOy90uFyN/view?usp=sharing">Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1djQGxiCaI7L27yXagZAhoyoySRQu20yj/view?usp=sharing">Paper</a> | <a href="http://www.youtube.com/watch?v=V5fPlGtPOPE&t=35m22s">Presentation</a> | <a href="https://drive.google.com/file/d/1emLAtvLsfKUVYyDLNIA4eoedOy90uFyN/view?usp=sharing">Slides</a></p>
       </div>
     </div>
   </div>
@@ -179,7 +179,7 @@ This course introduces both the mathematical theory of learning and the implemen
       <div class="container">
         <h4><b>Surgery Planing From MRI</b></h4>
         <p>Zachary Crowell, Linhui Chen, Yantong Lyu, Hui Ma</p>
-        <p><a href="https://drive.google.com/file/d/1TRYlgxv0Jt8TunlaRrlALaz8knysixV2/view?usp=sharing">Paper</a> | <a>Presentation</a> | <a>Slides</a></p>
+        <p><a href="https://drive.google.com/file/d/1TRYlgxv0Jt8TunlaRrlALaz8knysixV2/view?usp=sharing">Paper</a> | <a href="http://www.youtube.com/watch?v=V5fPlGtPOPE">Presentation</a> | <a>Slides</a></p>
       </div>
     </div>
   </div>
