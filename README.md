@@ -79,9 +79,7 @@ This course introduces both the mathematical theory of learning and the implemen
       </div>
     </div>
   </div>
- </div>
- 
- <div class="row">
+
   <div class="column">
     <div class="card">
       <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/IPO%20Success%20and%20Failure.png" style="width:100%">
