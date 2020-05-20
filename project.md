@@ -17,10 +17,10 @@ For some projects the steps above will take difference amounts of time. For exam
 
 ### Final Project Information:
 
-* Project Information [https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Project%20Information.docx]
-* Project Rubric [https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Project%20Rubric.docx]
-* Self Evaluation [https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Self%20Evaluation.docx]
-* Group Evaluation [https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Group%20Evaluation.docx]
+* [Project Information](https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Project%20Information.docx)
+* [Project Rubric](https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Project%20Rubric.docx)
+* [Self Evaluation](https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Self%20Evaluation.docx)
+* [Group Evaluation](https://github.com/tipthederiver/Math-7243-2020/raw/master/Projects/Group%20Evaluation.docx)
 
 # 2020 Project Gallery
 
