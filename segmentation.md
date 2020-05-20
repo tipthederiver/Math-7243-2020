@@ -6,8 +6,8 @@ layout     : default
 
 The MRI Segmentation Project and Surgery Planning project are XN projects sponsored by [Z-Imaging](http://zimaging.io/), a Harvard Innovation Labs sponsored startup. Below is our student at the Harvard Innovation Labs with CTO Raahil Sha.
 
-<img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg" width=50%/>
-<img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg" width=50%/>
+<div><img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg" width=50%/></div>
+<div><img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg" width=50%/></div>
 
 ![Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg)
 ![Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg)
@@ -16,7 +16,7 @@ The MRI Segmentation Project and Surgery Planning project are XN projects sponso
 
 This project used the [OASIS1](https://www.oasis-brains.org/) dataset to perform automatic segmentation of the ventricles. Students used 3D slicer to construct a large dataset of 3D ventricular segmentations from volumetric MRI data. The group then constructed a 3D UNET that takes in a piece of MRI data and returns a 3D segmented volume. The main issues with this project were in data handling, as the data set has few members (100) but each data point (MRI) is 12 MB. Down-sampling, memory handling and a carefully constructed network were required to train a network capable of proper segmentation. 
 
-This project is on goin and the current source code can be found here on [the github page](https://github.com/tipthederiver/Math-7243-2020/tree/master/Segmentation).
+This project is on going and the current source code can be found here on [the github page](https://github.com/tipthederiver/Math-7243-2020/tree/master/Segmentation).
 
 ## Surgery Planing for External Ventricular Drain:
 
