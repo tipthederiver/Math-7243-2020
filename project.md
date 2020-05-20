@@ -49,11 +49,11 @@ For some projects the steps above will take difference amounts of time. For exam
         <h4><b>{{project.title}}</b></h4>
         <p>{{project.names}}</p>
         <p>
-          <table style="width:100%">
-            <td style="text-align:left; width:30%"><a href="{{project.paper-url}}">Paper</a></td>
-            <td style="text-align:center; width:40%"><a href="{{project.pres-url}}">Presentation</a></td>
-            <td style="text-align:right; width:30%"><a href="{{project.slide-url}}">Slides</a></td>
-          </table>
+          <div style="width:100%">
+            <div style="text-align:left; width:29%"><a href="{{project.paper-url}}">Paper</a></div>
+            <div style="text-align:center; width:40%"><a href="{{project.pres-url}}">Presentation</a></div>
+            <div style="text-align:right; width:29%"><a href="{{project.slide-url}}">Slides</a></div>
+          </div>
         </p>
       </div>
     </div>
