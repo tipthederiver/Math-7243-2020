@@ -4,7 +4,7 @@ layout     : default
 
 # Test
 
-{% for author in authors %}
+{% for author in site.authors %}
     Username: {{ author[0] }}
     Full Name: {{ author[1]["name"] }}
     {% if author[1]["site"] != "" %}
