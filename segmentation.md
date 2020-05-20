@@ -8,8 +8,8 @@ The MRI Segmentation Project and Surgery Planning project are XN projects sponso
 
 <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg" width=50%>
 <img src="https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg" width=50%>
-[Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg)
-[Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg)
+![Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting.jpg)
+![Image](https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Z-Imaging%20Meeting2.jpg)
 
 ## MRI Segmentation:
 
