@@ -1,21 +1,7 @@
 projects:
-- section1: Section 1
-  audience: developers
-  product: acme
-  url: facebook.com
-- section2: Section 2
-  audience: writers
-  product: acme
-  url: google.com
-- section3: Section 3
-  audience: developers
-  product: acme
-  url: amazon.com
-- section4: Section 4
-  audience: writers
-  product: gizmo
-  url: apple.com
-- section5: Section 5
-  audience: writers
-  product: acme
-  url: microsoft.com
+- title: Single Channel Speech Enhancement
+  names: Andrew Stockton
+  thumb-url: https://raw.githubusercontent.com/tipthederiver/Math-7243-2020/master/Projects/Single%20Channel%20Speech%20Enhancement%20Thumb.png
+  paper-url: https://drive.google.com/file/d/1X4_bxSBOInZl8WCLEw6MslVuPC89j4SV/view?usp=sharing
+  pres-url: http://www.youtube.com/watch?v=CSXaizgxln4&t=49m9s
+  slide-url: https://drive.google.com/file/d/1xXjmin_m4kWuCdxyBT98IsDjRSPsGYJo/view?usp=sharing
