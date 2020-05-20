@@ -20,7 +20,7 @@ layout     : default
 {% endfor %}
 
 # Did it work?
-{% for item in site.data.samplelist.toc %}
+{% for item in site.samplelist.toc %}
 <h3>{{item.title}}</h3>
 <ul>
 {% for entry in item.subfolderitems %}
