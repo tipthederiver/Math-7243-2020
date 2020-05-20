@@ -2,6 +2,8 @@
 layout     : default
 ---
 
+# Test
+
 {% for author in authors %}
     Username: {{ author[0] }}
     Full Name: {{ author[1]["name"] }}
@@ -11,3 +13,5 @@ layout     : default
     E-Mail: {{ author[1]["email"] }}
     -----
 {% endfor %}
+
+# Did it work?
