@@ -1,6 +1,5 @@
 ---
 layout     : default
-permalink  : 'project.html'
 ---
 
 # Final Project Information
