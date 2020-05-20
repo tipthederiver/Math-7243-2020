@@ -50,9 +50,9 @@ For some projects the steps above will take difference amounts of time. For exam
         <p>{{project.names}}</p>
         <p>
           <table style="width:100%">
-            <td style="text-align:left"><a href="{{project.paper-url}}">Paper</a></td>
-            <td style="text-align:center"><a href="{{project.pres-url}}">Presentation</a></td>
-            <td style="text-align:right"><a href="{{project.slide-url}}">Slides</a></td>
+            <td style="text-align:left; width:30%"><a href="{{project.paper-url}}">Paper</a></td>
+            <td style="text-align:center; width:40%"><a href="{{project.pres-url}}">Presentation</a></td>
+            <td style="text-align:right; width:30%"><a href="{{project.slide-url}}">Slides</a></td>
           </table>
         </p>
       </div>
@@ -63,9 +63,9 @@ For some projects the steps above will take difference amounts of time. For exam
 
  <table style="width:100%">
   <tr>
-    <td style="text-align:left">January</td>
-    <td style="text-align:center">$100</td>
-    <td style="text-align:right">$100</td>
+    <td style="text-align:left; width:30%">January</td>
+    <td style="text-align:center; width:40%">$100</td>
+    <td style="text-align:right; width:30%">$100</td>
   </tr>
 </table> 
 
