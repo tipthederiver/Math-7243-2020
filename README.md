@@ -47,7 +47,7 @@ This course introduces both the mathematical theory of learning and the implemen
 | [Lab 6](https://github.com/tipthederiver/Math-7243-2020/tree/master/Labs/Lab%206) | Recurrent Neural Networks with Keras | Building and training RNN's for sequence generation and text generation. |
 
 
-
+# Datasets
 ## Hosted External Datasets
 
 | Dataset   | Title          | Lab |
@@ -55,3 +55,10 @@ This course introduces both the mathematical theory of learning and the implemen
 | Ames Housing Prices  | Ames | Lab 1 |
 | NYC AirBnB Prices | NYCAirBnB | Lab 1 |
 | Gendered Voice | GenderedVoice | Lab 3 |
+
+## Covid Datasets
+
+| Dataset   | Description          |
+| :---         |     :---:      |
+| [Boston 311 Covid](https://data.boston.gov/dataset/311-service-requests) | Boston 311 has been collecting data on reported COVID cases. This is included in the standard Boston 311 dataset. |
+| [COVID Lung Damage CT Semgentation](https://github.com/DengPingFan/Inf-Net#4-covid-semiseg-dataset) | A semgentation dataset containing CT scans of the lungs of COVID patients. Open questions include automatic segmentation, classifying damage by location and extent, subtyping damage using clustering, and charting disease progreassion| 
