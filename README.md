@@ -55,6 +55,7 @@ This course introduces both the mathematical theory of learning and the implemen
 | :---         |     :---:      |          ---: |
 | Ames Housing Prices  | Ames | Lab 1 |
 | NYC AirBnB Prices | NYCAirBnB | Lab 1 |
+| Gendered Voice | GenderedVoice | Lab 3 |
 
 ## Project Gallery
 
