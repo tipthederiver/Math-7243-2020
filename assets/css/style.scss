@@ -55,12 +55,3 @@ section {
 .XNImage{
     width: 45%;
 }
-
-a::before {
-    display: block;
-    content: attr(title);
-    font-weight: bold;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
-}
