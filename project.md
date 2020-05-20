@@ -32,7 +32,7 @@ For some projects the steps above will take difference amounts of time. For exam
       <div class="container">
         <h4><b>{{project.title}}</b></h4>
         <p>{{project.names}}</p>
-        <p><a href="{{project.paper-url}}" style="width:23%">Paper</a> | <a href="{{project.pres-url}}" style="width:50%>Presentation</a> | <a href="{{project.slide-url}}" style="width:23%>Slides</a></p>
+        <p><a href="{{project.paper-url}}" style="width:23%">Paper</a> | <a href="{{project.pres-url}}" style="width:50%">Presentation</a> | <a href="{{project.slide-url}}" style="width:23%">Slides</a></p>
       </div>
     </div>
   </div>
