@@ -56,7 +56,11 @@ section {
     width: 45%;
 }
 
-a:hover, a:focus {
-  font-weight: bold;
-  letter-spacing: 0
+a::before {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
 }
