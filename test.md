@@ -14,4 +14,9 @@ layout     : default
     -----
 {% endfor %}
 
+{% for author in site.author %}
+    {{ author }}
+    ----
+{% endfor %}
+
 # Did it work?
