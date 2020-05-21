@@ -57,7 +57,7 @@ section {
 }
 
 @media screen and (max-height: 600px) {
-    header{footer {
+    footer {
     width: 800px;
     float: left;
     position: relative;
@@ -65,5 +65,4 @@ section {
     -webkit-font-smoothing: subpixel-antialiased;
     clear: both;
     left: 300px;}
-}
 }
