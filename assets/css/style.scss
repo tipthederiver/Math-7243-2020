@@ -56,7 +56,11 @@ section {
     width: 45%;
 }
 
-@media screen and (max-height: 600px) {
+.view{
+    margin: 0 0 5px;
+}
+
+@media screen and (max-height: 650px) and (min-width: 960px) {
     footer {
     width: 800px;
     float: left;
