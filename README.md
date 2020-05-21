@@ -84,6 +84,7 @@ Lectures are hosted on Google Drive to size constraints. If you find a mis-attri
 
 | Dataset   | Description          |
 | :---         |     :---:      |
-| [Boston 311 Covid](https://data.boston.gov/dataset/311-service-requests) | Boston 311 has been collecting data on reported COVID cases. This is included in the standard Boston 311 dataset. |
+| [Boston 311 Covid](https://data.boston.gov/dataset/311-service-requests) | Boston 311 has been collecting data on reported COVID cases. This is included in the standard Boston 311 dataset (This seems to no longer be true, info?). |
 | [COVID Lung Damage CT Semgentation](https://github.com/DengPingFan/Inf-Net#4-covid-semiseg-dataset) | A semgentation dataset containing CT scans of the lungs of COVID patients. Open questions include automatic segmentation, classifying damage by location and extent, subtyping damage using clustering, and charting disease progreassion| 
 | [New York Times By County Data](https://github.com/nytimes/covid-19-data) | New York Times data on infection rate and deaths due to COVID by county in the US|
+| [Johns Hopkins Data Aggragator](https://github.com/CSSEGISandData/COVID-19) | This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).|
