@@ -55,3 +55,15 @@ section {
 .XNImage{
     width: 45%;
 }
+
+@media screen and (max-height: 600px) {
+    header{footer {
+    width: 800px;
+    float: left;
+    position: relative;
+    bottom: 0px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    clear: both;
+    left: 300px;}
+}
+}
