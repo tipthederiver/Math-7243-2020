@@ -3,6 +3,8 @@ import pandas as pd
 import os
 import argparse
 
+print("test")
+
 parser = argparse.ArgumentParser(
                     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
@@ -17,6 +19,7 @@ parser.add_argument('--data_dir', type=str, default='data/tinyshakespeare',
 args = parser.parse_args()
 files = os.listdir(args.data_dir)
 print(files)
+
 
 save_path = os.path.join(args.model_dir, "Output.txt")
 with open(save_path, "w") as text_file:
