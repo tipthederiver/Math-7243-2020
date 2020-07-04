@@ -25,6 +25,6 @@ files = os.listdir(args.data_dir)
 print(files)
 
 
-save_path = os.path.join(args.model_dir, "Output.txt")
+save_path = os.path.join(args.final_model, "Output.txt")
 with open(save_path, "w") as text_file:
     print(f"Purchase Amount: {files}", file=text_file)
