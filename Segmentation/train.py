@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser(
                     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
 # Data and model checkpoints directories					
-parser.add_argument('--model_dir', type=str, default='save',
+parser.add_argument('--model_dir', type=str, default='/opt/ml/model',
                     help='directory to store checkpointed models')
                     
 # Data and model checkpoints directories
