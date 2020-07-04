@@ -11,6 +11,10 @@ parser = argparse.ArgumentParser(
 # Data and model checkpoints directories					
 parser.add_argument('--model_dir', type=str, default='/opt/ml/model',
                     help='directory to store checkpointed models')
+
+# Data and model checkpoints directories					
+parser.add_argument('--final_model', type=str, default='/opt/ml/model',
+                    help='directory to store checkpointed models')
                     
 # Data and model checkpoints directories
 parser.add_argument('--data_dir', type=str, default='data/tinyshakespeare',
