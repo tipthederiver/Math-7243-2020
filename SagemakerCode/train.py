@@ -33,10 +33,13 @@ files = ['ID_0a336e630', 'ID_0ba79c0ef', 'ID_0bc7199c6']
 #path = '../Example Bucket'
 
 
-
 train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 
+print("test datagen")
+train_gen.__getitem__(index=0)
+test_gen.__getitem__(index=0)
+print("sucess!")
 
 model = md.unet2D(input_size = (512,512,4))
 history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.data_dir, epochs=2)
