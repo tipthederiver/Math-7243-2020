@@ -38,7 +38,7 @@ train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files,
 test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 
 model = md.unet2D(input_size = (512,512,4))
-history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=1)
+history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=3)
 
 print(args.final_model)
 
