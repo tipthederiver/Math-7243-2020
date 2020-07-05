@@ -44,7 +44,7 @@ print("Train Shape:", X.shape)
 print("sucess!")
 
 model = md.unet2D(input_size = (512,512,4))
-history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=2)
+history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=1)
 
 print(args.final_model)
 
