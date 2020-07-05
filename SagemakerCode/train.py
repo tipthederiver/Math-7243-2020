@@ -37,18 +37,11 @@ files = ['ID_0a336e630', 'ID_0ba79c0ef', 'ID_0bc7199c6']
 train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 
-print("test datagen")
-[X,y] = train_gen.__getitem__(index=0)
-print("Train Shape:", X.shape)
-[X,y] = train_gen.__getitem__(index=1)
-[X,y] = train_gen.__getitem__(index=2)
-print("sucess!")
-
 model = md.unet2D(input_size = (512,512,4))
 history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=1)
 
 print(args.final_model)
 
-model.save(args.final_model + '/trainedmodel.h5') # saving the model
+#model.save(args.final_model + '/trainedmodel.h5') # saving the model
 with open(args.final_model + '/trainHistoryOld', 'wb') as handle: # saving the history of the model
     pickle.dump(history.history, handle)
