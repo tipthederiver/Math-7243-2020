@@ -34,8 +34,8 @@ files = ['ID_0a336e630', 'ID_0ba79c0ef', 'ID_0bc7199c6']
 
 
 
-train_gen = dw.DataGenerator(folder=data_dir,batch_size=1, file_list=files, shuffle=False)
-test_gen = dw.DataGenerator(folder=data_dir,batch_size=1, file_list=files, shuffle=False)
+train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
+test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 
 
 model = md.unet2D(input_size = (512,512,4))
