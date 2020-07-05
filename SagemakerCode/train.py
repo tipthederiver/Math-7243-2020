@@ -37,7 +37,8 @@ train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files,
 test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, shuffle=False)
 
 print("test datagen")
-print("Train Shape:", train_gen.__getitem__(index=0).shape)
+[X,y] = train_gen.__getitem__(index=0)
+print("Train Shape:", X.shape)
 test_gen.__getitem__(index=0)
 print("sucess!")
 
