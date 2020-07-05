@@ -188,5 +188,6 @@ def train_model(model,training_generator,testing_generator, checkpoint_dir="", n
     history = model.fit(training_generator,
                         epochs=epochs, 
                         verbose=1,
-                        validation_data=testing_generator,callbacks=[checkpoint, csv_logger])
+#                        callbacks=[checkpoint, csv_logger],
+                        validation_data=testing_generator)
     return history
