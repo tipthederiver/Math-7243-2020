@@ -39,7 +39,8 @@ test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=files, 
 print("test datagen")
 [X,y] = train_gen.__getitem__(index=0)
 print("Train Shape:", X.shape)
-test_gen.__getitem__(index=0)
+[X,y] = train_gen.__getitem__(index=1)
+[X,y] = train_gen.__getitem__(index=2)
 print("sucess!")
 
 model = md.unet2D(input_size = (512,512,4))
