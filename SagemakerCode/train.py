@@ -40,3 +40,7 @@ test_gen = dw.DataGenerator(folder=data_dir,batch_size=1, file_list=files, shuff
 
 model = md.unet2D(input_size = (512,512,4))
 history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.data_dir, epochs=2)
+
+model.save(args.final_model + '/trainedmodel.h5') # saving the model
+with open(args.final_model + '/trainHistoryOld', 'wb') as handle: # saving the history of the model
+    dump(history.history, handle)
