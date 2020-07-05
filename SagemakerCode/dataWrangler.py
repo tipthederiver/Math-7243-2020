@@ -7,9 +7,7 @@
 import os 
 import numpy as np
 from PIL import Image
-from matplotlib import pyplot as plt 
 from tensorflow import keras
-import matplotlib.image as mpimg
 
 # # Data Generator
 # 
@@ -77,7 +75,7 @@ class DataGenerator(keras.utils.Sequence):
         for i, ID in enumerate(list_IDs_temp):
             for j in range(4):
                 # Store images and horizontal flip
-                img = mpimg.imread(self.folder + Fd[j] + self.files[ID] + '.jpg')[:,:,0]
+                img = np.array(Image.open(self.folder + Fd[j] + self.files[ID] + '.jpg'))[:,:,0]
                 X[i,:,:,j] = img
                 X[L + i,:,:,j] = np.flip(img,1)
 
