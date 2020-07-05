@@ -6,6 +6,7 @@
 
 import os 
 import numpy as np
+from PIL import Image
 from matplotlib import pyplot as plt 
 from tensorflow import keras
 import matplotlib.image as mpimg
