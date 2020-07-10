@@ -34,7 +34,7 @@ parser.add_argument('--weights', type=str, default='',
 
 # Data and model checkpoints directories
 parser.add_argument('--epochs', type=str, default='1',
-                    help='File containing weights') 
+                    help='Number of Training Epochs') 
 
                     
 args = parser.parse_args()
