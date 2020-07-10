@@ -27,6 +27,15 @@ parser.add_argument('--train_file', type=str, default='',
 # Data and model checkpoints directories
 parser.add_argument('--test_file', type=str, default='',
                     help='File containing list of validating names')  
+
+# Data and model checkpoints directories
+parser.add_argument('--weights', type=str, default='',
+                    help='File containing weights') 
+
+# Data and model checkpoints directories
+parser.add_argument('--epochs', type=str, default='1',
+                    help='File containing weights') 
+
                     
 args = parser.parse_args()
 files = os.listdir(args.data_dir)
@@ -44,7 +53,8 @@ print(files)
 train_list = []
 test_list = []
 
-print(args.train_file)
+if not os.path.exists(args.final_model):
+    os.makedirs(args.final_model)
 
 if len(args.train_file) is 0:
     train_file = args.data_dir + '/train.txt'
@@ -72,14 +82,21 @@ with open(test_file, 'r') as filehandle:
         
 
 
-train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=train_list, shuffle=False)
-test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=test_list, shuffle=False)
+train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=train_list[0:1], shuffle=False)
+test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=test_list[0:1], shuffle=False)
 
 model = md.unet2D(input_size = (512,512,4))
-history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=1)
+
+if len(args.weights) > 0:
+    model.load_weights(args.weights)
+    print("Weights Successfully Loaded")
+
+history = md.train_model(model, train_gen, test_gen, name="model", checkpoint_dir=args.final_model, epochs=int(args.epochs))
 
 print(args.final_model)
 
 #model.save(args.final_model + '/trainedmodel.h5') # saving the model
+model.save_weights(filepath=args.final_model + '/final_weight.h5')
+
 with open(args.final_model + '/trainHistoryOld', 'wb') as handle: # saving the history of the model
     pickle.dump(history.history, handle)
