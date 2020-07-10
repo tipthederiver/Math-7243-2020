@@ -82,8 +82,8 @@ with open(test_file, 'r') as filehandle:
         
 
 
-train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=train_list[0:1], shuffle=False)
-test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=test_list[0:1], shuffle=False)
+train_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=train_list, shuffle=False)
+test_gen = dw.DataGenerator(folder=args.data_dir,batch_size=1, file_list=test_list, shuffle=False)
 
 model = md.unet2D(input_size = (512,512,4))
 
